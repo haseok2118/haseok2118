@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=HaSeok%20Kim&fontSize=50)
-![header](https://img.shields.io/badge/Position-Front-end-blue?style=for-the-badge) 
+![](https://img.shields.io/badge/Position-Front-end-blue?style=for-the-badge) 
 
 
 <h3 align="center"> 🖋 Stack </h3>
