@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=HaSeok%20Kim&fontSize=70)
 ### Hi there 👋
 
 <!--
