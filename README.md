@@ -1,9 +1,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=HaSeok%20Kim&fontSize=50)
-![](https://img.shields.io/badge/Position-Front-end-blue?style=for-the-badge) 
+
 
 
 <h3 align="center"> 🖋 Stack </h3>
+
+<p align="center"> Stack that I've used at least once </p>
+  
+<p align="center">
+![](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript) 
+</p>
 
 <!--
 **haseok2118/haseok2118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
